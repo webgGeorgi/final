@@ -1,0 +1,25 @@
+.row{
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    background-color: rgb(150, 215, 241);
+    text-align: center ;
+}
+
+@media (min-width: 576px){
+    #fotodeperfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rgb(229, 237, 238);
+        left: 2%;
+        top: 600px;
+    }
+}
+
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 10%;
+}

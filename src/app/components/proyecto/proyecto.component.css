@@ -1,0 +1,16 @@
+.row{
+    padding: 20px;
+    background-color:rgb(253, 253, 253) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{
+    box-shadow: 10px 10px 30px rgb(236, 164, 110) ;
+    box-shadow: ejeX ejeY difumasion rgb(236, 164, 110) ;
+}
